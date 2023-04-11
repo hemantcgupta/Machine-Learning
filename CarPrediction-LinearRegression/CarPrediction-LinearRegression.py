@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # =============================================================================
-# Data Collection, EDA and Dat Processing
+# Data Collection, EDA and Data Processing
 # =============================================================================
 df = pd.read_csv(r'Car Price Data.csv')
 
